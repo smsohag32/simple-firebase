@@ -26,5 +26,5 @@
 
 ### more auth provider
 
-- activate the auth provider (create app, provide redirect url, client id, secret id,)
+- activate the auth provider (create app, provide redirect url, client id, clint secret,)
 -
